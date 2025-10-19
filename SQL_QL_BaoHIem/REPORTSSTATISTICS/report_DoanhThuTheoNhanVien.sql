@@ -1,0 +1,5 @@
+--  Mô tả:
+--      - Thống kê tổng doanh thu hợp đồng do từng nhân viên tư vấn mang lại.
+--    Tác giả: [Tên bạn hoặc nhóm]
+--    Ngày tạo: [DD/MM/YYYY]
+--    CSDL: QL_BaoHiem

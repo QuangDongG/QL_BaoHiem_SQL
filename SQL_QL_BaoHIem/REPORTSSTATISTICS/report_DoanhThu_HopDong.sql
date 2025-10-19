@@ -1,0 +1,8 @@
+--  Mô tả: 
+--      - Thống kê tổng doanh thu từ các hợp đồng bảo hiểm.
+--      - Phân tích theo năm / tháng / nhân viên tư vấn (tùy yêu cầu).
+--    Tác giả: [Tên bạn hoặc nhóm]
+--    Ngày tạo: [DD/MM/YYYY]
+--    CSDL: QL_BaoHiem
+--    Ghi chú:
+--      - Chạy sau khi đã có dữ liệu HOPDONG và GOIBAOHIEM.

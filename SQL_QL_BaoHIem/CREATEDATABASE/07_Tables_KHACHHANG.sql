@@ -1,0 +1,12 @@
+CREATE TABLE KHACHHANG(
+    MaKH INT IDENTITY(1,1) PRIMARY KEY,
+    HoTen NVARCHAR(120) NOT NULL,
+    NgaySinh DATE,
+    GioiTinh NCHAR(3) CHECK(GioiTinh IN (N'Nam', N'Nữ', N'Khác')),
+    CCCD VARCHAR(20) UNIQUE,
+    DiaChi NVARCHAR(255),
+    SDT VARCHAR(20),
+    Email VARCHAR(150) UNIQUE,
+    NgheNghiep NVARCHAR(100),
+    ThuNhap DECIMAL(18,2) NULL
+);

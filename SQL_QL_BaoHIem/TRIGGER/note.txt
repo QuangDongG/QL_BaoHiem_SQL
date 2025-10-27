@@ -1,0 +1,2 @@
+làm TRIGGER trong này
+TRIGGER có liên kết đến phần thêm sửa xóa m lưu ý phần đấy nhá

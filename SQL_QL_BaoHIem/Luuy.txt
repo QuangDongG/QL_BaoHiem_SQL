@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Chúng mày chịu khó tạo các folder sao cho hợp lí để dễ quản lí về sau dễ sửa nhá mỗi phần 1 file folder riêng
 Xem phần của t chia ra đúng như thế nhá
 Code chạy được không có vấn đề gì thì mới commit lên github
+=======
+Chúng mày chịu khó tạo các folder sao cho hợp lí để dễ quản lí về sau dễ sửa nhá mỗi phần 1 file folder riêng
+Xem phần của t chia ra đúng như thế nhá
+Code chạy được không có vấn đề gì thì mới commit lên github
+>>>>>>> 59c5acf48653319ce8c913c2014f62e09ddfb835
 Các phần phải liên kết với nhau không làm rời rạc chạy sai 1 lệnh thôi là phải chạy lại hết từ đầu đấy

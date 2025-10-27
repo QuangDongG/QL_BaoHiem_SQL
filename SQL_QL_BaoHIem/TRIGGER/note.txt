@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 làm TRIGGER trong này
+=======
+làm TRIGGER trong này
+>>>>>>> 59c5acf48653319ce8c913c2014f62e09ddfb835
 TRIGGER có liên kết đến phần thêm sửa xóa m lưu ý phần đấy nhá
